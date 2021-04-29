@@ -10,7 +10,7 @@
 	--daccentcolor:					190,78,180;
 	
 	--dfont:						Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
-	--dtextshadow:					transparent;
+	--dtextshadow:					transaparent;
 	
 	--dbackground:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);
 	--dbackgroundsize:				cover;
@@ -48,7 +48,7 @@
 	--fontwhite1: 					255,255,255;
 	--fontwhite2: 					255,255,255;
 	--fontwhite3: 					255,255,255;
-	--fontwhite4: 					0,0,0;
+	--fontwhite4: 					0,125,255;
 }
 
 .theme-light, .theme-dark {
